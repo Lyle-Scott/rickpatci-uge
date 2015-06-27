@@ -4,7 +4,10 @@ hstory
 cd
 clear
 man -a
+
+#Manuals are helpful
 man
+
 cd downloads
 /downloads
 ls /Downloads
