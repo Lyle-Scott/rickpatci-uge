@@ -1,0 +1,173 @@
+history | less
+history
+hstory
+cd
+clear
+man -a
+man
+cd downloads
+/downloads
+ls /Downloads
+ls ~
+cd /users/Rick
+cd Downloads/
+cd /
+
+# Successfully moved back one folder!
+..
+
+
+ls -l
+ls -rtl
+ls rtl
+applications/
+ls
+downloads/
+downloads
+pwd
+Movies/
+Documents/
+/documents
+cd ..
+cd /Documents
+cd /documents
+cd ~
+.
+ls -a
+man a
+man ls
+ls -r
+ls -lt
+ls -t
+cd Applications/
+cd a
+git config --global user.email
+git config --global user.name
+git --version
+brew doctor
+rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+ls -laF /usr/local/{lib/node{,/.npm},bin,share/man} | grep npm
+sudo npm uninstall npm -g
+cd usr
+cd local
+cd usr/local/include
+usr/local/include
+brew update
+brew doctor
+homebrew
+uname
+cl
+cd Documents/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'rpatci@gmail.com'
+git config --global user.name 'Rick Patci'
+git --ver
+echo $PATH
+subl /etc/paths
+echo $PATH
+echo $P
+echo $clear
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /bin/zsh
+zsh
+brew install zsh
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+npm install -g yo bower grunt-cli
+mkdir repos
+ruby c2frw.rb
+ruby -cw c2frw.rb
+ruby c2fout.rb
+ruby c2fin.rb
+ruby c2fi.rb
+ruby c2f.rb
+ruby -cw c2f.rb
+-cw c2f.rb
+cd c2f.rb
+cd documents
+irb
+git config --global credential.helper osxkeychain
+git credential-osxkeychain
+git config --global user.email rpatci@gmail.com
+git config --global user.name patci
+rails server
+cd blog
+sqlite3
+create table
+create table test.db
+cd sqlite
+sqlite3 test.db
+create table first (a int, b string);
+sqlite
+sqlite test.db
+mkdir sqlite
+rake routes
+rake db:migrate
+rails generate scaffold comment post_id:integer body:text --force
+rails generate scaffold comment post_id:integer body:text
+rails generate scaffold post title:string body:text --force
+rails generate scaffold post title:string body:text
+bundle install
+sudo gem install bundler
+gem install bundler
+rails new blog
+sudo rm -rf
+srm blog
+srm --help
+srm
+rm
+delete
+cd my_app
+rails blog
+\curl -sSL https://get.rvm.io | bash
+gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+rvm install
+rvm gemset list
+blog
+gem update --system
+xcode software update
+software update
+xcode-select --install
+gcc
+xcode-select -p
+whoami
+rails install
+rails reset
+bin/rake db:migrate RAILS_ENV=development
+bundle exec rake db:migrate
+rail server
+rails generate scaffold comment post_id:integerbody:text
+rails generate scaffold post title:stringbody:text
+gem pristine --all
+rails server --binding=127.0.0.1
+bundle check
+sudo gem update --system
+Rubygems
+rubygems
+rails new my_app
+sudo gem install rubygems-update
+gem install rubygems-update
+update_rubygems
+sudo gem install rails
+rvm implode
+sudo rm -rf /usr/local/rvm
+rails -v
+sudo rvm implode
+rails server -h
+ruby -v
+rvm install ruby
+rvm -v
+source /Users/foffer/.rvm/scripts/rvm
+\curl -sSL https://get.rvm.io | bash -s stable
+curl -sSL https://rvm.io/mpapis.asc | gpg --import -
+\curl -L <span class="skimlinks-unlinked">https://get.rvm.io</span>
+\curl -L <span class="skimlinks-unlinked">https://get.rvm.io</span> | bash -s stable --rails --autolibs=enabled
+ruby list known
+rvm list known
+rubt -v
+vim
+ruby-v
